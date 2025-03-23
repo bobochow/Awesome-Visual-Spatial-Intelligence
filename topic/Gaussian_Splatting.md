@@ -15,29 +15,29 @@
 
 ## [Scene Reconstruction](./3DGS_Scene_Reconstruction.md)
 
-- Optimized Rendering
+- [Optimized Rendering](./3DGS_Scene_Reconstruction.md#optimized-rendering)
 
-- Geometric and Material
+- [Geometric and Material](./3DGS_Scene_Reconstruction.md#geometric-and-material)
 
-- Physics Simulation
+- [Physics Simulation](./3DGS_Scene_Reconstruction.md#physics-simulation)
 
-- Dynamic Scene Reconstruction
+- [Dynamic Scene Reconstruction](./3DGS_Scene_Reconstruction.md#dynamic-scene-reconstruction)
 
-- Large-Scale Scene Reconstruction
+- [Large-Scale Scene Reconstruction](./3DGS_Scene_Reconstruction.md#large-scale-scene-reconstruction)
 
-- Sparse-View Reconstruction
+- [Sparse-View Reconstruction](./3DGS_Scene_Reconstruction.md#sparse-view-reconstruction)
 
 ## Downstream Tasks
 
-- 3D Detection
+- [3D Detection](./3DGS_Downstream_Tasks.md#3d-detection)
 
-- 3D Segmentation
+- [3D Segmentation](./3DGS_Downstream_Tasks.md#3d-semantic-segmentation)
 
-- Navigation
+- [Navigation](./3DGS_Downstream_Tasks.md#navigation)
 
-- Semantic Occupancy Prediction
+- [Semantic Occupancy Prediction](./3DGS_Downstream_Tasks.md#semantic-occupancy-prediction)
 
-- Scene Graph
+- [Scene Graph](./3DGS_Downstream_Tasks.md#scene-graph)
 
 ## Gaussian Splatting based 3D Foundation Model
 

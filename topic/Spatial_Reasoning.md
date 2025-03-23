@@ -38,7 +38,7 @@
 
 
 ## Multi-Modal Chain-of-Thought Reasoning
-- V? Guided Visual Search as a Core Mechanism in Multimodal LLMs [[paper](https://arxiv.org/abs/2312.14135)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
+- V* Guided Visual Search as a Core Mechanism in Multimodal LLMs [[paper](https://arxiv.org/abs/2312.14135)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[paper](https://arxiv.org/abs/2401.12168)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models [[paper](https://arxiv.org/abs/2406.01584)] ![Static Badge](https://img.shields.io/badge/NeurIPS%202024-blue)
 - OpenSU3D: Open World 3D Scene Understanding using Foundation Models [[paper](https://arxiv.org/abs/2407.14279)] ![Static Badge](https://img.shields.io/badge/arXiv%202407-red)

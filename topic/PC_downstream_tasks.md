@@ -57,7 +57,7 @@
 
 - ......
 
-## Occupancy Prediction
+## Semantic Occupancy Prediction
 
 - EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI. [[Paper]](https://arxiv.org/abs/2312.16170)![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 
