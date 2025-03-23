@@ -2,17 +2,24 @@
 
 ## 📖 About
 
-Awesome Visual-Spatial Intelligence
+This repo contains a curative list of Visual-Spatial Intelligence.
+
+## Related Resource
+- Spatial Intelligence for Robotics
+    - [Awesome-Spatial-Intelligence](https://github.com/lif314/Awesome-Spatial-Intelligence) ![Stars](https://img.shields.io/github/stars/lif314/Awesome-Spatial-Intelligence?style=social) ![Last Commit](https://img.shields.io/github/last-commit/lif314/Awesome-Spatial-Intelligence)
 
 ## Visual-Spatial Intelligence
 
 ### 2D Visual-Spatial Intelligence
 
 - [2D Foundation Model](./topics/2D_Foundation_Model.md)
+    - 2D Semantic Model
+    - 2D Geometry Model
+    - [2D Vision-Driven 3D Perception and Downstream Tasks](./topics/2D_Downstream_Tasks.md)
 
 - [Multimodal Alignment](./topics/Multimodal_Alignment.md)
 
-- [2D Spatial Reasoning](./topics/2D_Spatial_Reasoning.md)
+- [Spatial Reasoning](./topics/Spatial_Reasoning.md)
 
 ### 3D Visual-Spatial Intelligence
 
@@ -21,10 +28,6 @@ Awesome Visual-Spatial Intelligence
 ### Embodied Intelligence
 
 - [Embodied Intelligence](./topics/Embodied_Intelligence.md)
-
-### Benchmark
-
-- [Spatial Reasoning Benchmark](./topics/Spatial_Reasoning_Benchmark.md)
 
 ## 📚 Contribution
 

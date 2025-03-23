@@ -44,8 +44,5 @@
 
 - ......
 
-## Downstream Tasks
-
-- [2D Downstream Tasks](./2D_Downstream_Tasks.md)
 
 
