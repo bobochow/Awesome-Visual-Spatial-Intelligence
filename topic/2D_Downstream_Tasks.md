@@ -15,7 +15,7 @@
 - SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_SparseOcc_Rethinking_Sparse_Latent_Representation_for_Vision-Based_Semantic_Occupancy_Prediction_CVPR_2024_paper.pdf)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-Based 3D Semantic Occupancy Prediction [[Paper](https://ieeexplore.ieee.org/document/10658413)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[Paper](https://ieeexplore.ieee.org/document/10656742)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
-- Monocular Occupancy Prediction for Scalable Indoor Scenes [[Paper](https://arxiv.org/abs/2407.11730)] ![Static Badge](https://img.shields.io/badge/ECCV%202025-blue)
+- Monocular Occupancy Prediction for Scalable Indoor Scenes [[Paper](https://arxiv.org/abs/2407.11730)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
 - OPUS: Occupancy Prediction Using a Sparse Set [[Paper](https://arxiv.org/abs/2409.09350)] ![Static Badge](https://img.shields.io/badge/NeurIPS%202024-blue)
 - Fast Occupancy Network [[Paper](https://arxiv.org/abs/2412.07163)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
 - Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction [[Paper](https://arxiv.org/abs/2412.05976)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
@@ -47,7 +47,10 @@
 - ......
 
 ## Vision-Language Navigation
-- Navigation Instruction Generation with BEV Perception and Large Language Models [[Paper](https://arxiv.org/abs/2407.15087)] ![Static Badge](https://img.shields.io/badge/ECCV%202025-blue)
+- Navigation Instruction Generation with BEV Perception and Large Language Models [[Paper](https://arxiv.org/abs/2407.15087)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
+
+- RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation [[Paper](https://arxiv.org/abs/2412.08591)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
+
 - FrontierNet: Learning Visual Cues to Explore [[Paper](https://arxiv.org/abs/2501.04597)] ![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 
 - ......

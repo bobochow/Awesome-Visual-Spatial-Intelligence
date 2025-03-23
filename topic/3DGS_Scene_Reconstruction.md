@@ -55,11 +55,11 @@
 
 - VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction [[paper](http://openaccess.thecvf.com/content/CVPR2024/papers/Lin_VastGaussian_Vast_3D_Gaussians_for_Large_Scene_Reconstruction_CVPR_2024_paper.pdf)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 
-- CityGaussian: Real-time high-quality large-scale scene rendering with gaussians [[paper](https://arxiv.org/pdf/2404.01133)] ![Static Badge](https://img.shields.io/badge/ECCV%202025-blue)
+- CityGaussian: Real-time high-quality large-scale scene rendering with gaussians [[paper](https://arxiv.org/pdf/2404.01133)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
 
 ## Sparse-View Reconstruction
 
-- MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images [[paper](https://arxiv.org/abs/2403.14627)] ![Static Badge](https://img.shields.io/badge/ECCV%202025-blue)
+- MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images [[paper](https://arxiv.org/abs/2403.14627)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
 
 - TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers [[paper](https://arxiv.org/abs/2408.13770)] ![Static Badge](https://img.shields.io/badge/arXiv%202408-red)
 
