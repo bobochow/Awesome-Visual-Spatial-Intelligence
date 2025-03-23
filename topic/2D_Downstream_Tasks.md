@@ -1,11 +1,18 @@
 # 2D Vision-Driven 3D Perception and Downstream Tasks
 
+## 3D Detection
+- BEVFormer: Learning Bird’s-Eye-View Representation from Multi-camera Images via Spatiotemporal Transformers [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_1)] ![Static Badge](https://img.shields.io/badge/ECCV%202022-blue)
+- HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection [[Paper](https://arxiv.org/abs/2412.18884)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
+- Open Vocabulary Monocular 3D Object Detection [[Paper](https://arxiv.org/abs/2411.16833)] ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- UniDrive: Towards Universal Driving Perception Across Camera Configurations [[Paper](https://arxiv.org/abs/2410.13864)] ![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
+- ......
+
 ## Depth-based 3D Detection
 - BEVDepth: Acquisition of Reliable Depth for Multi-View 3D Object Detection [[Paper](https://doi.org/10.1609/aaai.v37i2.25233)] ![Static Badge](https://img.shields.io/badge/AAAI%202023-blue)
 - Training an Open-Vocabulary Monocular 3D Detection Model without 3D Data [[Paper](https://arxiv.org/abs/2411.15657)] ![Static Badge](https://img.shields.io/badge/NeurIPS%202024-blue)
 - Towards Unified 3D Object Detection via Algorithm and Data Unification [[Paper](https://arxiv.org/abs/2411.15657)] ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
 - MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model [[Paper](https://arxiv.org/abs/2502.00315)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
-
+- ......
 
 ## Semantic Occupancy Prediction
 - VoxFormer: Sparse Voxel Transformer for Camera-Based 3D Semantic Scene Completion [[Paper](https://arxiv.org/abs/2302.12251)] ![Static Badge](https://img.shields.io/badge/CVPR%202023-blue)
@@ -34,12 +41,7 @@
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries [[Paper](https://ieeexplore.ieee.org/document/10657826)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - ......
 
-## 3D Detection
-- BEVFormer: Learning Bird’s-Eye-View Representation from Multi-camera Images via Spatiotemporal Transformers [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_1)] ![Static Badge](https://img.shields.io/badge/ECCV%202022-blue)
-- HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection [[Paper](https://arxiv.org/abs/2412.18884)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
-- Open Vocabulary Monocular 3D Object Detection [[Paper](https://arxiv.org/abs/2411.16833)] ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
-- UniDrive: Towards Universal Driving Perception Across Camera Configurations [[Paper](https://arxiv.org/abs/2410.13864)] ![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
-- ......
+
 
 
 ## 3D Semantic Segmentation

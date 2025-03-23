@@ -52,7 +52,7 @@
 - GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow [[Paper](https://arxiv.org/abs/2502.17288)]![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
 
 
-## Scene Graph
+## Scene Graph Generation
 
 - DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation [[Paper](https://arxiv.org/abs/2502.15309)]![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
 - GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding [[Paper](https://arxiv.org/abs/2503.04034)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)

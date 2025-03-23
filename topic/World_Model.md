@@ -17,6 +17,11 @@
 
 - Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception [[paper](https://arxiv.org/abs/2503.13587)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
-
-
 - World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning [[paper](https://arxiv.org/abs/2503.10480)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+- Generating Multimodal Driving Scenes via Next-Scene Prediction [[paper](https://arxiv.org/abs/2503.14945)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+- Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [[paper](https://arxiv.org/abs/2503.14492)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+
+- ......

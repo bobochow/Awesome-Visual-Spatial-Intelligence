@@ -14,4 +14,6 @@
 
 - Point Cloud Understanding via Attention-Driven Contrastive Learning. [[Paper]](https://arxiv.org/abs/2411.14744)![Static Badge](https://img.shields.io/badge/arxiv%202411-red)
 
+- Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting. [[Paper]](https://arxiv.org/abs/2411.18667)![Static Badge](https://img.shields.io/badge/arxiv%202411-red)
+
 - ......

@@ -2,7 +2,7 @@
 
 ## [3D Backbone](./PC_Backbone.md)
 
-## Multimodal Alignment
+## [Multimodal Alignment](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)
 
 ## 3D MLLM
 
@@ -33,3 +33,8 @@
 - [Occupancy Prediction](./PC_downstream_tasks.md#occupancy-prediction)
 
 - [3D Visual Grounding](./PC_downstream_tasks.md#3d-visual-grounding)
+
+## Neural Rendering Pretraining
+
+- Ponder: Point Cloud Pre-training via Neural Rendering [[Paper](https://arxiv.org/abs/2301.00157)]![Static Badge](https://img.shields.io/badge/ICCV%202023-blue)
+- PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm [[Paper](https://arxiv.org/abs/2310.08586)]![Static Badge](https://img.shields.io/badge/arXiv%202310-red)

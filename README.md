@@ -39,41 +39,56 @@ This is an active repository, you can watch for following the latest advances.
 
 ### 2D Visual-Spatial Intelligence
 
-- [2D Foundation Model](./topics/2D_Foundation_Model.md)
-    - 2D Semantic Model
-    - 2D Geometry Model
-    - Spatial-aware 2D Model
-    - [2D Vision-Driven 3D Perception and Downstream Tasks](./topics/2D_Downstream_Tasks.md)
-
-- [Multimodal Alignment](./topics/Multimodal_Alignment.md)
-
+- [2D Foundation Model](./topic/2D_Foundation_Model.md)
+    - [2D Semantic Model](./topic/2D_Foundation_Model.md#2D-Semantic-Model)
+    - [2D Geometry Model](./topic/2D_Foundation_Model.md#2D-Geometry-Model)
+    - [Spatial-aware 2D Model](./topic/2D_Foundation_Model.md#Spatial-aware-2D-Model)
+    - [2D Vision-Driven 3D Perception and Downstream Tasks](./topic/2D_Downstream_Tasks.md)
+      - [Depth-based 3D Detection](./topic/2D_Downstream_Tasks.md#depth-based-3d-detection)
+      - [Semantic Occupancy Prediction](./topic/2D_Downstream_Tasks.md#semantic-occupancy-prediction)
+      - [Semantic Occupancy Completion](./topic/2D_Downstream_Tasks.md#semantic-occupancy-completion)
+      - [3D Detection](./topic/2D_Downstream_Tasks.md#3d-detection)
+      - [3D Segmentation](./topic/2D_Downstream_Tasks.md#3d-semantic-segmentation)
+      - [Vision-Language Navigation](./topic/2D_Downstream_Tasks.md#vision-language-navigation)
 
 ### 3D Visual-Spatial Intelligence
 
-- [Gaussian Splatting](./topics/Gaussian_Splatting.md)
-    - 3DGS Scene Reconstruction
-    - Downstream Tasks
-    - Gaussian Splatting based 3D Foundation Model
-- [Neural Radiance Field](./topics/Neural_Radiance_Field.md)
-    - Neural Rendering Pretraining
-    - SDF
-    - NeRF-based Downstream Tasks
-- [Hybrid 3D Representation](./topics/Hybrid_3D_Representation.md)
+- [Gaussian Splatting](./topic/Gaussian-Splatting.md)
+    - [3DGS Scene Reconstruction](./topic/Gaussian-Splatting.md#3dgs-scene-reconstruction)
+    - [Downstream Tasks](./topic/Gaussian-Splatting.md#downstream-tasks)
+      - [3D Detection](./topic/Gaussian-Splatting.md#3d-detection)
+      - [3D Segmentation](./topic/Gaussian-Splatting.md#3d-semantic-segmentation)
+      - [Semantic Occupancy Prediction](./topic/Gaussian-Splatting.md#semantic-occupancy-prediction)
+      - [Scene Graph Generation](./topic/Gaussian-Splatting.md#scene-graph-generation)
+      - [Navigation](./topic/Gaussian-Splatting.md#navigation)
+    - [Gaussian Splatting based 3D Foundation Model](./topic/Gaussian-Splatting.md#gaussian-splatting-based-3d-foundation-model)
+- [Neural Radiance Field](./topic/Neural-Radiance-Field.md)
+    - [Neural Rendering Pretraining](./topic/Neural-Radiance-Field.md#neural-rendering-pretraining)
+    - [SDF](./topic/Neural-Radiance-Field.md#sdf)
+    - [NeRF-based Downstream Tasks](./topic/Neural-Radiance-Field.md#nerf-based-downstream-tasks)
+      - [3D Detection](./topic/Neural-Radiance-Field.md#3d-detection)
+      - [3D Segmentation](./topic/Neural-Radiance-Field.md#3d-semantic-segmentation)
+      - [Navigation](./topic/Neural-Radiance-Field.md#navigation)
+- [Hybrid 3D Representation](./topic/Hybrid-3D-Representation.md)
 
-- [Multi-View Geometry](./topics/Multi-View_Geometry.md)
+- [Multi-View Geometry](./topic/Multi-View_Geometry.md)
 
-- [Point cloud](./topics/Point_cloud.md)
-  - 3D Backbone
-  - Multimodal Alignment
-  - 3D MLLM
-  - Downstream Tasks
+- [Point cloud](./topic/Point_Cloud.md)
+  - [3D Backbone](./topic/PC_Backbone.md)
+  - [Multimodal Alignment](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)
+  - [3D MLLM](./topic/Point_Cloud.md#3d-mllm)
+  - [Downstream Tasks](./topic/PC_downstream_tasks.md)
 
-- [World Model](./topics/World_Model.md)
+- [World Model](./topic/World_Model.md)
 
-### [Spatial Reasoning](./topics/Spatial_Reasoning.md)
-- Scene Graph Generation
-- Multi-Modal Chain-of-Thought Reasoning
-- Benchmark
+### [Multimodal Alignment](./topic/Multimodal_Alignment.md)
+- [Multimodal Alignment with Text, Image, Audio, Depth, Video](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Text,-Image,-Audio,-Depth,-Video)
+- [Multimodal Alignment with Point Cloud](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)
+- [Reinforcement Learning Based Multimodal Alignment](./topic/Multimodal_Alignment.md#Reinforcement-Learning-Based-Multimodal-Alignment)
+### [Spatial Reasoning](./topic/Spatial_Reasoning.md)
+- [Scene Graph Generation](./topic/Spatial_Reasoning.md#scene-graph-generation)
+- [Multi-Modal Chain-of-Thought Reasoning](./topic/Spatial_Reasoning.md#multi-modal-chain-of-thought-reasoning)
+- [Benchmark](./topic/Spatial_Reasoning.md#benchmark)
 
 ### Embodied-Spatial Intelligence
 

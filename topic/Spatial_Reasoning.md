@@ -13,17 +13,28 @@
 
 ## Scene Graph Generation
 
-- [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://arxiv.org/abs/2309.16650) ![Static Badge](https://img.shields.io/badge/arXiv%202309-red)
+- ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning [[Paper](https://arxiv.org/abs/2309.16650)] ![Static Badge](https://img.shields.io/badge/arXiv%202309-red)
 
-- [Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships](https://arxiv.org/abs/2402.12259) ![Static Badge](https://img.shields.io/badge/CVPR%202024-red)
+- Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships [[Paper](https://arxiv.org/abs/2402.12259)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-red)
 
-- [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/abs/2403.17846) ![Static Badge](https://img.shields.io/badge/ICRA%202024-red)
+- Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation [[Paper](https://arxiv.org/abs/2403.17846)] ![Static Badge](https://img.shields.io/badge/ICRA%202024-red)
 
-- [Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph](https://arxiv.org/abs/2406.07113) ![Static Badge](https://img.shields.io/badge/arXiv%202406-red)
+- Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph [[Paper](https://arxiv.org/abs/2406.07113)] ![Static Badge](https://img.shields.io/badge/arXiv%202406-red)
 
-- [Open-Vocabulary Octree-Graph for 3D Scene Understanding](https://arxiv.org/abs/2411.16253) ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation [[Paper](https://arxiv.org/abs/2409.10262)] ![Static Badge](https://img.shields.io/badge/arXiv%202409-red)
 
-- [ROOT: VLM based System for Indoor Scene Understanding and Beyond](https://arxiv.org/abs/2411.15714) ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- Scene Graph Generation with Role-Playing Large Language Models [[Paper](https://arxiv.org/abs/2410.15364)] ![Static Badge](https://img.shields.io/badge/NeurIPS%202024-red)
+
+- Open-Vocabulary Octree-Graph for 3D Scene Understanding [[Paper](https://arxiv.org/abs/2411.16253)] ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+
+- ROOT: VLM based System for Indoor Scene Understanding and Beyond [[Paper](https://arxiv.org/abs/2411.15714)] ![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+
+- Universal Scene Graph Generation. [[Paper](https://arxiv.org/abs/2503.15005)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+- EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[Paper](https://arxiv.org/abs/2503.11089)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+
+- ......
 
 
 ## Multi-Modal Chain-of-Thought Reasoning
@@ -33,6 +44,9 @@
 - OpenSU3D: Open World 3D Scene Understanding using Foundation Models [[paper](https://arxiv.org/abs/2407.14279)] ![Static Badge](https://img.shields.io/badge/arXiv%202407-red)
 - Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model [[paper](https://arxiv.org/abs/2408.00754)] ![Static Badge](https://img.shields.io/badge/arXiv%202408-red)
 - GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models [[paper](https://arxiv.org/abs/2501.01428)] ![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
+- Can Large Vision Language Models Read Maps Like a Human? [[Paper](https://arxiv.org/abs/2503.14607)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Grounded Chain-of-Thought for Multimodal Large Language Models [[Paper](https://arxiv.org/abs/2503.12799)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding [[Paper](https://arxiv.org/abs/2503.12663)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 - ......
 
@@ -43,5 +57,7 @@
 - Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces [[paper](https://arxiv.org/abs/2412.14171)] ![Static Badge](https://img.shields.io/badge/CVPR%202025-blue)
 - SAT: Spatial Aptitude Training for Multimodal Language Models [[paper](https://arxiv.org/abs/2412.07755)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
 - Defining and Evaluating Visual Language Models’ Basic Spatial Abilities: A Perspective from Psychometrics [[paper](https://arxiv.org/abs/2502.11859)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
+- CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models [[paper](https://arxiv.org/abs/2503.14161)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [[paper](https://arxiv.org/abs/2503.13111)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 - ......

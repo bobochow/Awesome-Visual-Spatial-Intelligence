@@ -77,4 +77,7 @@
 
 - Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding. [[Paper]](https://arxiv.org/abs/2502.10392)![Static Badge](https://img.shields.io/badge/arxiv%202502-red)
 
+- Unifying 2D and 3D Vision-Language Understanding. [[Paper]](https://arxiv.org/abs/2503.10745)![Static Badge](https://img.shields.io/badge/arxiv%202503-red)
+
+
 - ......
