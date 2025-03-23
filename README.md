@@ -54,7 +54,7 @@ This is an active repository, you can watch for following the latest advances.
 ### 3D Visual-Spatial Intelligence
 
 - [Gaussian Splatting](./topic/Gaussian_Splatting.md)
-    - [3DGS Scene Reconstruction](./topic/Gaussian_Splatting.md#3dgs-scene-reconstruction)
+    - [3DGS Scene Reconstruction](./topic/3DGS_Scene_Reconstruction.md#3dgs-scene-reconstruction)
       - [Optimized Rendering](./topic/3DGS_Scene_Reconstruction.md#optimized-rendering)
       - [Geometric and Material](./topic/3DGS_Scene_Reconstruction.md#geometric-and-material)
       - [Physics Simulation](./topic/3DGS_Scene_Reconstruction.md#physics-simulation)
@@ -82,7 +82,7 @@ This is an active repository, you can watch for following the latest advances.
 - [Point Cloud](./topic/Point_Cloud.md)
   - [3D Backbone](./topic/PC_Backbone.md)
   - [Multimodal Alignment](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)
-  - [3D MLLM](./topic/Point_Cloud.md#3D-MLLM)
+  - [3D MLLM](./topic/Point_Cloud.md#3d-mllm)
   - [Downstream Tasks](./topic/PC_downstream_tasks.md)
     - [3D Detection](./topic/PC_downstream_tasks.md#3d-detection)
     - [3D Segmentation](./topic/PC_downstream_tasks.md#3d-semantic-segmentation)
