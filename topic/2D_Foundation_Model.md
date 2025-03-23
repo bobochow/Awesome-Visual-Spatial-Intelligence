@@ -44,5 +44,11 @@
 
 - ......
 
-
+## Spatial-aware 2D Model
+- Pri3D: Can 3D Priors Help 2D Representation Learning? [[Paper](https://ieeexplore.ieee.org/document/9711106)] ![Static Badge](https://img.shields.io/badge/ICCV%202021-blue)
+- SpatialFormer: Towards Generalizable Vision Transformers with Explicit Spatial Understanding [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_3)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
+- Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding [[Paper](https://arxiv.org/abs/2409.03757)] ![Static Badge](https://img.shields.io/badge/NeurIPS%202024-blue)
+- Feat2GS: Probing Visual Foundation Models with Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.09606)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
+- Gaussian Masked Autoencoders [[Paper](https://arxiv.org/abs/2501.03229)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
+- ......
 
