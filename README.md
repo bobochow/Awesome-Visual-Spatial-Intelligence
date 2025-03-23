@@ -82,7 +82,7 @@ This is an active repository, you can watch for following the latest advances.
 - [Point Cloud](./topic/Point_Cloud.md)
   - [3D Backbone](./topic/PC_Backbone.md)
   - [Multimodal Alignment](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)
-  - [3D MLLM](./topic/Point_Cloud.md#3d-mllm)
+  - [3D MLLM](./topic/Point_Cloud.md#3D-MLLM)
   - [Downstream Tasks](./topic/PC_downstream_tasks.md)
     - [3D Detection](./topic/PC_downstream_tasks.md#3d-detection)
     - [3D Segmentation](./topic/PC_downstream_tasks.md#3d-semantic-segmentation)
@@ -103,7 +103,7 @@ This is an active repository, you can watch for following the latest advances.
 
 ### Embodied-Spatial Intelligence
 
-- [Embodied-Spatial Intelligence](./topics/Embodied_Spatial_Intelligence.md)
+- [Embodied-Spatial Intelligence](./topic/Embodied_Spatial_Intelligence.md)
 
 ## 📚 Contribution
 
