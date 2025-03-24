@@ -47,6 +47,8 @@
 - Can Large Vision Language Models Read Maps Like a Human? [[Paper](https://arxiv.org/abs/2503.14607)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - Grounded Chain-of-Thought for Multimodal Large Language Models [[Paper](https://arxiv.org/abs/2503.12799)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding [[Paper](https://arxiv.org/abs/2503.12663)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Paper](https://arxiv.org/abs/2503.10615)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 
 - ......
 

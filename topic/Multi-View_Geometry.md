@@ -1,5 +1,10 @@
 # Multi-View Geometry
 
+## Related Resource
+- [awesome-dust3r](https://github.com/ruili3/awesome-dust3r) ![Stars](https://img.shields.io/github/stars/ruili3/awesome-dust3r?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ruili3/awesome-dust3r)
+
+- [Awesome-MVS](https://github.com/walsvid/Awesome-MVS) ![Stars](https://img.shields.io/github/stars/walsvid/Awesome-MVS?style=social) ![Last Commit](https://img.shields.io/github/last-commit/walsvid/Awesome-MVS)
+
 ## List
 - DUSt3R: Geometric 3D Vision Made Easy [[Paper](https://arxiv.org/abs/2312.14132)]![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 

@@ -2,7 +2,15 @@
 
 ## Related Resource
 
+## Survey
+
+- The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey [[paper](https://arxiv.org/abs/2502.10498)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
+
+
 ## List
+
+- WonderWorld: Interactive 3D Scene Generation from a Single Image [[paper](https://arxiv.org/abs/2406.09394)] ![Static Badge](https://img.shields.io/badge/arXiv%202406-red)
+
 - DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers [[paper](https://arxiv.org/abs/2412.18607)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
 
 - GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2412.10373)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
@@ -22,6 +30,8 @@
 - Generating Multimodal Driving Scenes via Next-Scene Prediction [[paper](https://arxiv.org/abs/2503.14945)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 - Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [[paper](https://arxiv.org/abs/2503.14492)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+
 
 
 - ......

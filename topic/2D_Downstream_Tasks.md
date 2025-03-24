@@ -39,6 +39,8 @@
 - NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space [[Paper](https://ieeexplore.ieee.org/document/10376597)] ![Static Badge](https://img.shields.io/badge/ICCV%202023-blue)
 - Not All Voxels are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation [[Paper](https://ieeexplore.ieee.org/document/10655503)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
 - Symphonize 3D Semantic Scene Completion with Contextual Instance Queries [[Paper](https://ieeexplore.ieee.org/document/10657826)] ![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
+- SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion [[Paper](https://arxiv.org/abs/2503.16825)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 - ......
 
 
@@ -54,6 +56,9 @@
 - RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation [[Paper](https://arxiv.org/abs/2412.08591)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
 
 - FrontierNet: Learning Visual Cues to Explore [[Paper](https://arxiv.org/abs/2501.04597)] ![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
+
+- MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[Paper](https://arxiv.org/abs/2502.13451)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
+
 
 - ......
 

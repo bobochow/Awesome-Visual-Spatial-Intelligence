@@ -52,6 +52,7 @@
 
 - UniPLV: Towards Label-Efficient Open-World 3D Scene Understanding by Regional Visual Language Supervision. [[Paper]](https://arxiv.org/abs/2412.18131)![Static Badge](https://img.shields.io/badge/arxiv%202412-red)
 
+- Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding. [[Paper]](https://arxiv.org/abs/2503.16707)![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 
@@ -73,11 +74,17 @@
 
 - Task-oriented Sequential Grounding and Navigation in 3D Scenes. [[Paper]](https://arxiv.org/abs/2408.04034)![Static Badge](https://img.shields.io/badge/arxiv%202408-red)
 
+- SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding [[Paper](https://arxiv.org/abs/2412.04383)] ![Static Badge](https://img.shields.io/badge/arXiv%202412-red)
+
+
 - AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring. [[Paper]](https://arxiv.org/abs/2501.09428)![Static Badge](https://img.shields.io/badge/arxiv%202501-red)
 
 - Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding. [[Paper]](https://arxiv.org/abs/2502.10392)![Static Badge](https://img.shields.io/badge/arxiv%202502-red)
 
 - Unifying 2D and 3D Vision-Language Understanding. [[Paper]](https://arxiv.org/abs/2503.10745)![Static Badge](https://img.shields.io/badge/arxiv%202503-red)
+
+- Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention [[Paper](https://arxiv.org/abs/2405.18295)] ![Static Badge](https://img.shields.io/badge/arXiv%202405-red)
+
 
 
 - ......

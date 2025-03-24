@@ -57,6 +57,9 @@
 
 - CityGaussian: Real-time high-quality large-scale scene rendering with gaussians [[paper](https://arxiv.org/pdf/2404.01133)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
 
+- OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering [[paper](https://arxiv.org/abs/2503.16177)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+
 ## Sparse-View Reconstruction
 
 - MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images [[paper](https://arxiv.org/abs/2403.14627)] ![Static Badge](https://img.shields.io/badge/ECCV%202024-blue)
