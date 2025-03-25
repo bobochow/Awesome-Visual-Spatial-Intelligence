@@ -85,6 +85,7 @@
 
 - Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention [[Paper](https://arxiv.org/abs/2405.18295)] ![Static Badge](https://img.shields.io/badge/arXiv%202405-red)
 
+- MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation. [[Paper](https://arxiv.org/abs/2503.18135)] ![Static Badge](https://img.shields.io/badge/arxiv%202503-red)
 
 
 - ......

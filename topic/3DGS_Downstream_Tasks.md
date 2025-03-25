@@ -28,6 +28,7 @@
 - OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies [[Paper](https://arxiv.org/abs/2501.00326)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 - Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation [[Paper](https://arxiv.org/abs/2502.00173)]![Static Badge](https://img.shields.io/badge/WACV%202025-blue)
 
+- PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding [[Paper](https://arxiv.org/abs/2503.18107)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 

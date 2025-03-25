@@ -50,6 +50,10 @@
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Paper](https://arxiv.org/abs/2503.10615)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
+## Reinforcement Learning Based Multimodal Chain-of-Thought Reasoning
+
+- MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Paper](https://arxiv.org/abs/2503.18470)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 - ......
 
 ## Benchmark
@@ -61,5 +65,6 @@
 - Defining and Evaluating Visual Language Models’ Basic Spatial Abilities: A Perspective from Psychometrics [[paper](https://arxiv.org/abs/2502.11859)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
 - CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models [[paper](https://arxiv.org/abs/2503.14161)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [[paper](https://arxiv.org/abs/2503.13111)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes [[paper](https://arxiv.org/abs/2503.17406)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 - ......
