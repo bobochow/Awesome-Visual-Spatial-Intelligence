@@ -31,7 +31,7 @@
 
 - Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [[paper](https://arxiv.org/abs/2503.14492)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
-
+- AETHER: Geometric-Aware Unified World Modeling [[Paper](https://arxiv.org/abs/2503.18945)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 - ......
