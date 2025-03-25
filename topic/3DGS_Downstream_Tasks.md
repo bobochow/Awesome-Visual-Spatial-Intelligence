@@ -30,7 +30,7 @@
 
 - PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding [[Paper](https://arxiv.org/abs/2503.18107)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
-
+- SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[Paper](https://arxiv.org/abs/2503.18052v1)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 
