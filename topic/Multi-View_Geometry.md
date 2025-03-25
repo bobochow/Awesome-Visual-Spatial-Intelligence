@@ -16,4 +16,6 @@
 
 - Relative Pose Estimation through Affine Corrections of Monocular Depth Priors [[Paper](https://arxiv.org/abs/2501.05446)] ![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 
+- Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors [[Paper](https://arxiv.org/abs/2503.17316)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 - ......
