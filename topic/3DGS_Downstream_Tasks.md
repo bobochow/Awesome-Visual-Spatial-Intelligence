@@ -34,6 +34,7 @@
 
 - M3: 3D-Spatial MultiModal Memory [[Paper](https://arxiv.org/abs/2503.16413)]![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
 
+- EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.11345)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 ## Semantic Occupancy Prediction
 
@@ -58,6 +59,8 @@
 
 - DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation [[Paper](https://arxiv.org/abs/2502.15309)]![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
 - GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding [[Paper](https://arxiv.org/abs/2503.04034)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+- Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs [[Paper](https://arxiv.org/abs/2503.15091)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 ## Navigation

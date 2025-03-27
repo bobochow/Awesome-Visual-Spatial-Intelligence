@@ -127,6 +127,9 @@
 
 - SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[Paper](https://arxiv.org/abs/2501.15830)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 
+- Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[Paper](https://arxiv.org/abs/2503.18065)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+
 - ......
 
 

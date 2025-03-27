@@ -14,7 +14,7 @@
     - **MAE**: Masked Autoencoders Are Scalable Vision Learners [[Paper](https://arxiv.org/abs/2112.09133)] ![Static Badge](https://img.shields.io/badge/CVPR%202022-blue)
     - ......
 - Discriminative self-supervised learning: 
-    - **DINOv2**: Learning Robust Visual Features without Supervision [[paper](https://arxiv.org/abs/2304.07193)] ![Static Badge](https://img.shields.io/badge/TMLR-green)
+    - **DINOv2**: Learning Robust Visual Features without Supervision [[Paper](https://arxiv.org/abs/2304.07193)] ![Static Badge](https://img.shields.io/badge/TMLR-green)
     - ......
 - Textually Prompted Models: 
     - **CLIP**: Learning Transferable Visual Models From Natural Language Supervision [[Paper](https://arxiv.org/abs/2103.00020)] ![Static Badge](https://img.shields.io/badge/ICML%202021-blue)
