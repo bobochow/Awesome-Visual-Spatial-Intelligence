@@ -55,7 +55,7 @@
 - Gaussian Masked Autoencoders [[Paper](https://arxiv.org/abs/2501.03229)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 - EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining [[Paper](https://arxiv.org/abs/2503.15470)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.17349)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
-
+- PE3R: Perception-Efficient 3D Reconstruction [[Paper](https://arxiv.org/abs/2503.07507)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - ......
 
 

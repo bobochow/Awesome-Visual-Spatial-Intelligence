@@ -32,6 +32,7 @@
 
 - SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining [[Paper](https://arxiv.org/abs/2503.18052v1)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
+- M3: 3D-Spatial MultiModal Memory [[Paper](https://arxiv.org/abs/2503.16413)]![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
 
 
 ## Semantic Occupancy Prediction
