@@ -57,6 +57,10 @@
 
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Paper](https://arxiv.org/abs/2503.18470)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 - Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[Paper](https://arxiv.org/abs/2503.20752)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Paper](https://arxiv.org/abs/2503.21696)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Video-R1: Reinforcing Video Reasoning in MLLMs [[Paper](https://arxiv.org/abs/2503.21776)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[Paper](https://arxiv.org/abs/2503.18013)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 - ......
 
 ## Benchmark

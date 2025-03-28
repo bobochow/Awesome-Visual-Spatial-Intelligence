@@ -6,6 +6,8 @@
 
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey [[Paper](https://arxiv.org/abs/2502.10498)] ![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
 
+- Exploring the Evolution of Physics Cognition in Video Generation: A Survey [[Paper](https://arxiv.org/abs/2503.21765)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 
 ## List
 

@@ -20,7 +20,9 @@
 
 - Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors [[Paper](https://arxiv.org/abs/2503.17316)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
+- Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video [[Paper](https://arxiv.org/abs/2503.21761)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
+- Can Video Diffusion Model Reconstruct 4D Geometry? [[Paper](https://arxiv.org/abs/2503.21082)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 - ......

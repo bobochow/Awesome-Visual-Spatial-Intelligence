@@ -114,7 +114,6 @@
 
 - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper](https://arxiv.org/abs/2409.01652)]![Static Badge](https://img.shields.io/badge/CoRL%202024-blue)
 
-
 - RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Paper](https://arxiv.org/abs/2411.16537)]![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
 
 - Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset [[Paper](https://arxiv.org/abs/2410.22325)]![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
@@ -128,6 +127,8 @@
 - SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[Paper](https://arxiv.org/abs/2501.15830)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
 
 - Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[Paper](https://arxiv.org/abs/2503.18065)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
+- Gemini Robotics: Bringing AI into the Physical World [[Paper](https://arxiv.org/abs/2503.20020)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
 
 
 - ......
