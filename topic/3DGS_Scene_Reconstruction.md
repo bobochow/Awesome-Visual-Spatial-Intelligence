@@ -36,6 +36,8 @@
 
 - OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation [[Paper](https://arxiv.org/abs/2501.18982)] ![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
 
+- RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.19358)] ![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+
 
 ## Dynamic Scene Reconstruction
 
