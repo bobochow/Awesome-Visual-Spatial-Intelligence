@@ -95,40 +95,42 @@
 
 ## Survey
 
-- A Survey on Vision-Language-Action Models for Embodied AI [[Paper](https://arxiv.org/abs/2405.14093)]![Static Badge](https://img.shields.io/badge/arXiv%202405-red)
+- A Survey on Vision-Language-Action Models for Embodied AI [[Paper](https://arxiv.org/abs/2405.14093)]![Static Badge](https://img.shields.io/badge/arXiv-%202405-red)
 
-- Vision-Language Navigation with Embodied Intelligence: A Survey [[Paper](https://arxiv.org/abs/2402.14304)]![Static Badge](https://img.shields.io/badge/arXiv%202402-red)
+- Vision-Language Navigation with Embodied Intelligence: A Survey [[Paper](https://arxiv.org/abs/2402.14304)]![Static Badge](https://img.shields.io/badge/arXiv-%202402-red)
 
 
 ## List
 
-- SUGAR: Pre-training 3D Visual Representations for Robotics [[Paper](https://arxiv.org/abs/2404.01491)]![Static Badge](https://img.shields.io/badge/CVPR%202024-blue)
+- SUGAR: Pre-training 3D Visual Representations for Robotics [[Paper](https://arxiv.org/abs/2404.01491)]![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
 
-- Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning [[Paper](https://arxiv.org/abs/2402.02500)]![Static Badge](https://img.shields.io/badge/NeurIPS%202024-blue)
+- Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning [[Paper](https://arxiv.org/abs/2402.02500)]![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
 
-- Spatiotemporal Predictive Pre-training for Robotic Motor Control [[Paper](https://arxiv.org/abs/2403.05304)]![Static Badge](https://img.shields.io/badge/arXiv%202403-red)
+- Spatiotemporal Predictive Pre-training for Robotic Motor Control [[Paper](https://arxiv.org/abs/2403.05304)]![Static Badge](https://img.shields.io/badge/arXiv-%202403-red)
 
-- Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation [[Paper](https://arxiv.org/abs/2411.18623)]![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation [[Paper](https://arxiv.org/abs/2411.18623)]![Static Badge](https://img.shields.io/badge/arXiv-%202411-red)
 
-- FusionSense: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction [[Paper](https://arxiv.org/abs/2410.08282)]![Static Badge](https://img.shields.io/badge/arXiv%202410-red)
+- FusionSense: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction [[Paper](https://arxiv.org/abs/2410.08282)]![Static Badge](https://img.shields.io/badge/arXiv-%202410-red)
 
 - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper](https://arxiv.org/abs/2409.01652)]![Static Badge](https://img.shields.io/badge/CoRL%202024-blue)
 
-- RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Paper](https://arxiv.org/abs/2411.16537)]![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Paper](https://arxiv.org/abs/2411.16537)]![Static Badge](https://img.shields.io/badge/arXiv-%202411-red)
 
-- Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset [[Paper](https://arxiv.org/abs/2410.22325)]![Static Badge](https://img.shields.io/badge/ICLR%202025-blue)
+- Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset [[Paper](https://arxiv.org/abs/2410.22325)]![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 
-- RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception [[Paper](https://arxiv.org/abs/2501.18880)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
+- RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception [[Paper](https://arxiv.org/abs/2501.18880)]![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
 
-- SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Paper](https://arxiv.org/abs/2502.13143)]![Static Badge](https://img.shields.io/badge/arXiv%202502-red)
+- SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Paper](https://arxiv.org/abs/2502.13143)]![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 
-- Spatially Visual Perception for End-to-End Robotic Learning [[Paper](https://arxiv.org/abs/2411.17458)]![Static Badge](https://img.shields.io/badge/arXiv%202411-red)
+- Spatially Visual Perception for End-to-End Robotic Learning [[Paper](https://arxiv.org/abs/2411.17458)]![Static Badge](https://img.shields.io/badge/arXiv-%202411-red)
 
-- SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[Paper](https://arxiv.org/abs/2501.15830)]![Static Badge](https://img.shields.io/badge/arXiv%202501-red)
+- SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[Paper](https://arxiv.org/abs/2501.15830)]![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
 
-- Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[Paper](https://arxiv.org/abs/2503.18065)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[Paper](https://arxiv.org/abs/2503.18065)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
-- Gemini Robotics: Bringing AI into the Physical World [[Paper](https://arxiv.org/abs/2503.20020)]![Static Badge](https://img.shields.io/badge/arXiv%202503-red)
+- Gemini Robotics: Bringing AI into the Physical World [[Paper](https://arxiv.org/abs/2503.20020)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[Paper](https://arxiv.org/abs/2503.21860)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 
 - ......

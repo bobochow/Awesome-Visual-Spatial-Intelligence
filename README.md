@@ -100,6 +100,8 @@ This is an active repository, you can watch for following the latest advances.
       - [Dynamic Scene Reconstruction](./topic/3DGS_Scene_Reconstruction.md#dynamic-scene-reconstruction)
       - [Large-Scale Scene Reconstruction](./topic/3DGS_Scene_Reconstruction.md#large-scale-scene-reconstruction)
       - [Sparse-View Reconstruction](./topic/3DGS_Scene_Reconstruction.md#sparse-view-reconstruction)
+      - [Unposed Scene Reconstruction](./topic/3DGS_Scene_Reconstruction.md#unposed-scene-reconstruction)
+      - [Sparse-View Scene Extension](./topic/3DGS_Scene_Reconstruction.md#sparse-view-scene-extension)
     - [Downstream Tasks](./topic/3DGS_Downstream_Tasks.md)
       - [3D Detection](./topic/3DGS_Downstream_Tasks.md#3d-detection)
       - [3D Segmentation](./topic/3DGS_Downstream_Tasks.md#3d-semantic-segmentation)
@@ -138,6 +140,7 @@ This is an active repository, you can watch for following the latest advances.
 ### [Spatial Reasoning](./topic/Spatial_Reasoning.md)
 - [Scene Graph Generation](./topic/Spatial_Reasoning.md#scene-graph-generation)
 - [Multi-Modal Chain-of-Thought Reasoning](./topic/Spatial_Reasoning.md#multi-modal-chain-of-thought-reasoning)
+- [Reinforcement Learning Based Multimodal Chain-of-Thought Reasoning](./topic/Spatial_Reasoning.md#reinforcement-learning-based-multimodal-chain-of-thought-reasoning)
 - [Benchmark](./topic/Spatial_Reasoning.md#benchmark)
 
 ### Embodied-Spatial Intelligence
