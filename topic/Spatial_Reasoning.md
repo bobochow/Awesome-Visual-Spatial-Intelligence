@@ -11,6 +11,9 @@
 
 - Multimodal Chain-of-Thought Reasoning in Language Models [[Paper](https://arxiv.org/abs/2302.00923)] ![Static Badge](https://img.shields.io/badge/TMLR-%202024-green)
 
+- How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM [[Paper](https://arxiv.org/abs/2504.05786)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+
 ## Scene Graph Generation
 
 - ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning [[Paper](https://arxiv.org/abs/2309.16650)] ![Static Badge](https://img.shields.io/badge/arXiv-%202309-red)
@@ -36,6 +39,11 @@
 - Global-Local Tree Search in VLMs for 3D Indoor Scene Generation [[Paper](https://arxiv.org/abs/2503.18476)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models [[Paper](https://arxiv.org/abs/2503.19914)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- Controllable 3D Outdoor Scene Generation via Scene Graphs [[Paper](https://arxiv.org/abs/2503.07152)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad [[Paper](https://arxiv.org/abs/2503.18695)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 
 - ......
 
@@ -63,6 +71,8 @@
 - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Paper](https://arxiv.org/abs/2503.21696)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - Video-R1: Reinforcing Video Reasoning in MLLMs [[Paper](https://arxiv.org/abs/2503.21776)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[Paper](https://arxiv.org/abs/2503.18013)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Paper](https://arxiv.org/abs/2504.06958)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+- Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Paper](https://arxiv.org/abs/2504.00883)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
 

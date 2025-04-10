@@ -11,6 +11,9 @@
 
 - Latent Radiance Fields with 3D-aware 2D Representations [[Paper](https://arxiv.org/abs/2502.09613)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 
+- NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations [[Paper](https://arxiv.org/abs/2503.23162)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+
 ## Geometric and Material
 
 - SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Guedon_SuGaR_Surface-Aligned_Gaussian_Splatting_for_Efficient_3D_Mesh_Reconstruction_and_CVPR_2024_paper.pdf)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
@@ -36,6 +39,8 @@
 - OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation [[Paper](https://arxiv.org/abs/2501.18982)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 
 - RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.19358)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction [[Paper](https://arxiv.org/abs/2503.05484)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 
 ## Dynamic Scene Reconstruction

@@ -35,6 +35,8 @@
 - Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion [[Paper](https://arxiv.org/abs/2502.04263)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 - Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[Paper](https://arxiv.org/abs/2502.03714)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 - TULIP: Towards Unified Language-Image Pretraining [[Paper](https://arxiv.org/abs/2503.15485)] ![Static Badge](https://img.shields.io/badge/CVPR-%202025-blue)
+- DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning [[Paper](https://arxiv.org/abs/2503.11892)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - ......
 
 

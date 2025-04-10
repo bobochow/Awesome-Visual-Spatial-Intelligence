@@ -1,5 +1,13 @@
 # Point Cloud
 
+## Survey
+
+- Advances in 3D pre-training and downstream tasks: a survey [[Paper](https://doi.org/10.1007/s44336-024-00007-4)]![Static Badge](https://img.shields.io/badge/Vicinagearth-%202024-green)
+
+
+
+
+
 ## [3D Backbone](./PC_Backbone.md)
 
 ## [Multimodal Alignment](./topic/Multimodal_Alignment.md#Multimodal-Alignment-with-Point-Cloud)

@@ -56,6 +56,9 @@
 
 - Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes. [[Paper]](https://arxiv.org/abs/2503.24229)![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
+- DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation. [[Paper]](https://arxiv.org/abs/2503.18944)![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+
 - ......
 
 ## Semantic Occupancy Prediction
