@@ -16,4 +16,6 @@
 
 - Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting. [[Paper]](https://arxiv.org/abs/2411.18667)![Static Badge](https://img.shields.io/badge/arxiv%202411-red)
 
+- Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding. [[Paper]](https://arxiv.org/abs/2504.06719)![Static Badge](https://img.shields.io/badge/arxiv%202504-red)
+
 - ......

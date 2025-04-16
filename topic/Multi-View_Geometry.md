@@ -38,5 +38,7 @@
 
 - Easi3R: Estimating Disentangled Motion from DUSt3R Without Training [[Paper](https://arxiv.org/abs/2503.24391)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
+- UniK3D: Universal Camera Monocular 3D Estimation [[Paper](https://arxiv.org/abs/2503.16591)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 
 - ......

@@ -70,3 +70,7 @@
 - GaussNav: Gaussian Splatting for Visual Navigation [[Paper](https://doi.org/10.1109/tpami.2025.3538496)]![Static Badge](https://img.shields.io/badge/TPAMI-green)
 - UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation [[Paper](https://doi.org/10.48550/arXiv.2411.16053)]![Static Badge](https://img.shields.io/badge/arXiv-%202411-red)
 
+## SLAM
+- WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments [[Paper](https://arxiv.org/abs/2504.03886)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+

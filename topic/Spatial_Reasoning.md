@@ -61,6 +61,7 @@
 - Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding [[Paper](https://arxiv.org/abs/2503.12663)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Paper](https://arxiv.org/abs/2503.10615)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[Paper](https://arxiv.org/abs/2503.22020)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [[Paper](https://arxiv.org/abs/2504.05599)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
 
@@ -73,6 +74,8 @@
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[Paper](https://arxiv.org/abs/2503.18013)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Paper](https://arxiv.org/abs/2504.06958)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Paper](https://arxiv.org/abs/2504.00883)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+- VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [[Paper](https://arxiv.org/abs/2504.07615)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+- Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[Paper](https://arxiv.org/abs/2504.07954)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
 

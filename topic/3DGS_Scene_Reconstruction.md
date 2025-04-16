@@ -8,10 +8,13 @@
 
 - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians [[Paper](https://arxiv.org/abs/2403.17898)] ![Static Badge](https://img.shields.io/badge/arXiv-%202403-red)
 
+- Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering [[Paper](https://arxiv.org/abs/2412.04459)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
 
 - Latent Radiance Fields with 3D-aware 2D Representations [[Paper](https://arxiv.org/abs/2502.09613)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 
 - NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations [[Paper](https://arxiv.org/abs/2503.23162)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+
 
 
 ## Geometric and Material
@@ -58,6 +61,7 @@
 
 - Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.16979)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
+- Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction [[Paper](https://arxiv.org/abs/2504.07961)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
 ## Large-Scale Scene Reconstruction
@@ -96,6 +100,8 @@
 
 - FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views [[Paper](https://arxiv.org/abs/2502.12138)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 
+- Coca-Splat: Collaborative Optimization for Camera Parameters and 3D Gaussians [[Paper](https://arxiv.org/abs/2504.00639)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 ## Sparse-View Scene Extension
 
@@ -104,5 +110,7 @@
 - ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image [[Paper](https://arxiv.org/abs/2503.23881)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views [[Paper](https://arxiv.org/abs/2503.24382)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- ERUPT: Efficient Rendering with Unposed Patch Transformer [[Paper](https://arxiv.org/abs/2503.24374)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - ......

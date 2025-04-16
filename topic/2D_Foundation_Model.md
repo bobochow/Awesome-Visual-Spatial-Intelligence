@@ -56,6 +56,8 @@
 - EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining [[Paper](https://arxiv.org/abs/2503.15470)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.17349)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - PE3R: Perception-Efficient 3D Reconstruction [[Paper](https://arxiv.org/abs/2503.07507)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images [[Paper](https://arxiv.org/abs/2503.08407)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- Detect Anything 3D in the Wild [[Paper](https://arxiv.org/abs/2504.07958)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - ......
 
 
