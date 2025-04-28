@@ -25,4 +25,7 @@
 
 - OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding. [[Paper](https://arxiv.org/abs/2504.10825)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step. [[Paper](https://arxiv.org/abs/2504.01956)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+
 - ......
