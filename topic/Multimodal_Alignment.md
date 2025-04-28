@@ -36,6 +36,7 @@
 - Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[Paper](https://arxiv.org/abs/2502.03714)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 - TULIP: Towards Unified Language-Image Pretraining [[Paper](https://arxiv.org/abs/2503.15485)] ![Static Badge](https://img.shields.io/badge/CVPR-%202025-blue)
 - DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning [[Paper](https://arxiv.org/abs/2503.11892)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- Post-pre-training for Modality Alignment in Vision-Language Foundation Models [[Paper](https://arxiv.org/abs/2504.12717)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
 
