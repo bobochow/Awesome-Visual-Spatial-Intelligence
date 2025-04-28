@@ -62,6 +62,7 @@
 - PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding [[Paper](https://arxiv.org/abs/2504.13180)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - Evolved Hierarchical Masking for Self-Supervised Learning [[Paper](https://arxiv.org/abs/2504.09155)]![Static Badge](https://img.shields.io/badge/TPAMI-green)
 - I-Con: A Unifying Framework for Representation Learning [[Paper](https://arxiv.org/abs/2504.16929)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+- Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation [[Paper](https://arxiv.org/abs/2504.12753)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - ......
 
 
