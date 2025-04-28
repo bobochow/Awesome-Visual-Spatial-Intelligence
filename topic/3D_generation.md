@@ -21,4 +21,8 @@
 
 - Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation.[[Paper](https://arxiv.org/abs/2501.05427)] ![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
 
+- Bolt3D: Generating 3D Scenes in Seconds. [[Paper](https://arxiv.org/abs/2503.14445)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding. [[Paper](https://arxiv.org/abs/2504.10825)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+- ......
