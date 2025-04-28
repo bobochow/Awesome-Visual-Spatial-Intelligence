@@ -46,6 +46,8 @@
 
 - LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision [[Paper](https://arxiv.org/abs/2304.07647)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 
+- SG-Reg: Generalizable and Efficient Scene Graph Registration [[Paper](https://arxiv.org/abs/2504.14440)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 - ......
 
