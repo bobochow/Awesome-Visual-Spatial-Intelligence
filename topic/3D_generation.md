@@ -6,6 +6,12 @@
 - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
 - [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) ![Stars](https://img.shields.io/github/stars/PolySummit/Awesome-3D-Reconstruction-and-Generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/PolySummit/Awesome-3D-Reconstruction-and-Generation)
 
+
+## Survey
+
+- Recent Advance in 3D Object and Scene Generation: A Survey [[Paper](https://arxiv.org/abs/2504.11734)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+
 ## List
 - LRM: Large Reconstruction Model for Single Image to 3D. [[Paper](https://arxiv.org/abs/2311.04400)] ![Static Badge](https://img.shields.io/badge/ICLR-%202024-blue)
 
