@@ -100,6 +100,7 @@
 - Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization [[Paper](https://arxiv.org/abs/2502.13146)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 - Unified Reward Model for Multimodal Understanding and Generation. [[Paper](https://arxiv.org/abs/2503.05236)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[Paper](https://arxiv.org/abs/2503.05379)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[Paper](https://arxiv.org/abs/2504.12680)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
 
