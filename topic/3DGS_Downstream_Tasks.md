@@ -38,7 +38,7 @@
 
 - Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.22204)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
-- Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.14029)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+- Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.14029)]![Static Badge](https://img.shields.io/badge/CVPR-%202025-blue)
 
 - CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting [[Paper](https://arxiv.org/abs/2504.11893)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
