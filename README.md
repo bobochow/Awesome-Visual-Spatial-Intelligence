@@ -73,6 +73,10 @@ This is an active repository, you can watch for following the latest advances.
   - [World-Simulator](https://github.com/ALEEEHU/World-Simulator) ![Stars](https://img.shields.io/github/stars/ALEEEHU/World-Simulator?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ALEEEHU/World-Simulator)
   - [awesome-world-models](https://github.com/3a1b2c3/awesome-world-models) ![Stars](https://img.shields.io/github/stars/3a1b2c3/awesome-world-models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/3a1b2c3/awesome-world-models)
   - [Awesome-Visual-Autoregressive-Model](https://github.com/ZNan-Chen/Awesome-Visual-Autoregressive-Model) ![Stars](https://img.shields.io/github/stars/ZNan-Chen/Awesome-Visual-Autoregressive-Model?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ZNan-Chen/Awesome-Visual-Autoregressive-Model)
+  - [Awesome-3D-Generation](https://github.com/justimyhxu/awesome-3D-generation) ![Stars](https://img.shields.io/github/stars/justimyhxu/awesome-3D-generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/justimyhxu/awesome-3D-generation)
+  - [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ![Stars](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
+  - [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) ![Stars](https://img.shields.io/github/stars/PolySummit/Awesome-3D-Reconstruction-and-Generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/PolySummit/Awesome-3D-Reconstruction-and-Generation)
+
 
 ## Visual-Spatial Intelligence
 
@@ -130,6 +134,7 @@ This is an active repository, you can watch for following the latest advances.
     - [Semantic Occupancy Prediction](./topic/PC_downstream_tasks.md#semantic-occupancy-prediction)
     - [3D Visual Grounding](./topic/PC_downstream_tasks.md#3d-visual-grounding)
 
+- [3D Generation](./topic/3D_generation.md)
 
 - [World Model](./topic/World_Model.md)
 
