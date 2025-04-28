@@ -9,4 +9,7 @@
 ## List
 - LRM: Large Reconstruction Model for Single Image to 3D. [[Paper](https://arxiv.org/abs/2311.04400)] ![Static Badge](https://img.shields.io/badge/ICLR-%202024-blue)
 
+- Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation. [[Paper](https://doi.org/10.48550/arXiv.2312.02145)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
+
 - Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation.[[Paper](https://arxiv.org/abs/2501.05427)] ![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
+
