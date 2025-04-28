@@ -27,5 +27,6 @@
 
 - VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step. [[Paper](https://arxiv.org/abs/2504.01956)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting. [[Paper](https://arxiv.org/abs/2504.10001)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
