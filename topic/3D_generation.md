@@ -29,4 +29,7 @@
 
 - GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting. [[Paper](https://arxiv.org/abs/2504.10001)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- OmniAudio: Generating Spatial Audio from 360-Degree Video. [[Paper](https://arxiv.org/abs/2504.14906)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+
 - ......
