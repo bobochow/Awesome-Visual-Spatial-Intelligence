@@ -49,6 +49,7 @@
 
 - POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction [[Paper](https://arxiv.org/abs/2504.05692)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- TAPIP3D: Tracking Any Point in Persistent 3D Geometry [[Paper](https://arxiv.org/abs/2504.14717)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
 - ......
