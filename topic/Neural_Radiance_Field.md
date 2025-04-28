@@ -41,6 +41,8 @@
 
 - CONDENSE: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images [[Paper](https://arxiv.org/abs/2408.17027)]![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
 
+- O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation [[Paper](https://arxiv.org/abs/2404.06836)]![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
+
 
 ### Navigation
 
