@@ -44,6 +44,8 @@
 
 - OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad [[Paper](https://arxiv.org/abs/2503.18695)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
+- LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision [[Paper](https://arxiv.org/abs/2304.07647)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
+
 
 - ......
 
