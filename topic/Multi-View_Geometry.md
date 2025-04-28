@@ -42,4 +42,7 @@
 
 - St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World [[Paper](https://arxiv.org/abs/2504.13152)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction [[Paper](https://arxiv.org/abs/2504.13419)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
+
 - ......
