@@ -44,5 +44,7 @@
 
 - Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction [[Paper](https://arxiv.org/abs/2504.13419)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- Regist3R: Incremental Registration with Stereo Foundation Model [[Paper](https://arxiv.org/abs/2504.12356)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 - ......
