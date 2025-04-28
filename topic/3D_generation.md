@@ -9,6 +9,8 @@
 
 ## Survey
 
+- Advances in 4D Generation: A Survey [[Paper](https://arxiv.org/abs/2503.14501)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Recent Advance in 3D Object and Scene Generation: A Survey [[Paper](https://arxiv.org/abs/2504.11734)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
