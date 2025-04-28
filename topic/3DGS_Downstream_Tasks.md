@@ -38,6 +38,8 @@
 
 - Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.22204)]![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
+- CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting [[Paper](https://arxiv.org/abs/2504.11893)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 ## Semantic Occupancy Prediction
 
