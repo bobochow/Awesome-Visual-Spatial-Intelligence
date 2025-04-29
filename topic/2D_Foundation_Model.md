@@ -49,6 +49,7 @@
 - SpatialFormer: Towards Generalizable Vision Transformers with Explicit Spatial Understanding [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_3)] ![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
 - Probing the 3D Awareness of Visual Foundation Models [[Paper](https://arxiv.org/abs/2404.08636)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
 - Improving 2D Feature Representations by 3D-Aware Fine-Tuning [[Paper](https://arxiv.org/abs/2407.20229)] ![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
+- Near, far: Patch-ordering enhances vision foundation models’ scene understanding. [[Paper](https://arxiv.org/abs/2408.11054)]![Static Badge](https://img.shields.io/badge/arXiv-%202408-red)
 - Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding [[Paper](https://arxiv.org/abs/2409.03757)] ![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
 - Feat2GS: Probing Visual Foundation Models with Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.09606)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
 - SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images [[Paper](https://arxiv.org/abs/2412.05274)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
@@ -63,6 +64,7 @@
 - Evolved Hierarchical Masking for Self-Supervised Learning [[Paper](https://arxiv.org/abs/2504.09155)]![Static Badge](https://img.shields.io/badge/TPAMI-green)
 - I-Con: A Unifying Framework for Representation Learning [[Paper](https://arxiv.org/abs/2504.16929)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation [[Paper](https://arxiv.org/abs/2504.12753)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - ......
 
 
