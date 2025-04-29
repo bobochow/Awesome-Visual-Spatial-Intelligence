@@ -67,6 +67,7 @@
 - CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[Paper](https://arxiv.org/abs/2503.22020)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 - Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [[Paper](https://arxiv.org/abs/2504.05599)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 - Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization [[Paper](https://arxiv.org/abs/2504.18397)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+- Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation [[Paper](https://arxiv.org/abs/2504.17207)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
 
