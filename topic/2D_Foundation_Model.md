@@ -38,10 +38,10 @@
 - Depth Anything V2: Unleashing the Power of Large-Scale Unlabeled Data [[Paper](https://arxiv.org/abs/2406.09414)] ![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
 - Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image [[Paper](https://arxiv.org/abs/2307.10984)] ![Static Badge](https://img.shields.io/badge/ICCV-%202023-blue)
 - Metric3D v2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation [[Paper](https://arxiv.org/abs/2404.15506)] ![Static Badge](https://img.shields.io/badge/TPAMI-green)
-- DepthART: Monocular Depth Estimation as Autoregressive Refinement Task [[Paper](https://arxiv.org/abs/2409.15010)] ![Static Badge](https://img.shields.io/badge/arXiv-%202409-red)
+
 - DepthLab: From Partial to Complete [[Paper](https://arxiv.org/abs/2412.18153)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
 - DepthMaster: Taming Diffusion Models for Monocular Depth Estimation [[Paper](https://arxiv.org/abs/2501.02576)] ![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
-- Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction [[Paper](https://arxiv.org/abs/2409.18124)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
+
 - ......
 
 ## Spatial-aware 2D Model
@@ -49,7 +49,7 @@
 - SpatialFormer: Towards Generalizable Vision Transformers with Explicit Spatial Understanding [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_3)] ![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
 - Probing the 3D Awareness of Visual Foundation Models [[Paper](https://arxiv.org/abs/2404.08636)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
 - Improving 2D Feature Representations by 3D-Aware Fine-Tuning [[Paper](https://arxiv.org/abs/2407.20229)] ![Static Badge](https://img.shields.io/badge/ECCV-%202024-blue)
-- Near, far: Patch-ordering enhances vision foundation models’ scene understanding. [[Paper](https://arxiv.org/abs/2408.11054)]![Static Badge](https://img.shields.io/badge/arXiv-%202408-red)
+- Near, far: Patch-ordering enhances vision foundation models’ scene understanding. [[Paper](https://arxiv.org/abs/2408.11054)]![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
 - Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding [[Paper](https://arxiv.org/abs/2409.03757)] ![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
 - Feat2GS: Probing Visual Foundation Models with Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.09606)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
 - SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images [[Paper](https://arxiv.org/abs/2412.05274)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)

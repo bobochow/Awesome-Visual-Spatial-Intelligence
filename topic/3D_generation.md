@@ -35,6 +35,10 @@
 
 - Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation. [[Paper](https://doi.org/10.48550/arXiv.2312.02145)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
 
+- DepthART: Monocular Depth Estimation as Autoregressive Refinement Task [[Paper](https://arxiv.org/abs/2409.15010)] ![Static Badge](https://img.shields.io/badge/arXiv-%202409-red)
+
+- Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction [[Paper](https://arxiv.org/abs/2409.18124)] ![Static Badge](https://img.shields.io/badge/ICLR-%202025-blue)
+
 - PriorDiffusion: Leverage Language Prior in Diffusion Models for Monocular Depth Estimation. [[Paper](https://arxiv.org/abs/2411.16750)] ![Static Badge](https://img.shields.io/badge/arXiv-%202411-red)
 
 - OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding. [[Paper](https://arxiv.org/abs/2504.10825)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
