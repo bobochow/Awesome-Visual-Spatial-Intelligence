@@ -44,6 +44,8 @@
 
 - NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation [[Paper](https://arxiv.org/abs/2504.14638)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs [[Paper](https://arxiv.org/abs/2504.13153)]![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 ## Semantic Occupancy Prediction
 
