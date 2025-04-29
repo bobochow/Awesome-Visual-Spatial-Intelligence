@@ -118,6 +118,8 @@
 
 - Towards Foundation Models for 3D Vision: How Close Are We? [[Paper](https://arxiv.org/abs/2410.10799)] ![Static Badge](https://img.shields.io/badge/arXiv-%202410-red)
 
+- Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities [[Paper](https://arxiv.org/abs/2410.17385)] ![Static Badge](https://img.shields.io/badge/arXiv-%202410-red)
+
 - Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces [[Paper](https://arxiv.org/abs/2412.14171)] ![Static Badge](https://img.shields.io/badge/CVPR-%202025-blue)
 
 - SAT: Spatial Aptitude Training for Multimodal Language Models [[Paper](https://arxiv.org/abs/2412.07755)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
@@ -139,7 +141,5 @@
 - Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19707)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Paper](https://arxiv.org/abs/2504.15279)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
-
-
 
 - ......
