@@ -2,9 +2,13 @@
 
 ## Related Resource
 - [Awesome-Spatial-Reasoning](https://github.com/yyyybq/Awesome-Spatial-Reasoning) ![Stars](https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yyyybq/Awesome-Spatial-Reasoning)
+
 - [Awesome-Spatial-Reasoning](https://github.com/arijitray1993/awesome-spatial-reasoning) ![Stars](https://img.shields.io/github/stars/arijitray1993/awesome-spatial-reasoning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/arijitray1993/awesome-spatial-reasoning)
+
 - [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT) ![Stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yaotingwangofficial/Awesome-MCoT)
+
 - [Awesome-MLLM-Reasoning-Collection](https://github.com/lwpyh/Awesome-MLLM-Reasoning-Collection) ![Stars](https://img.shields.io/github/stars/lwpyh/Awesome-MLLM-Reasoning-Collection?style=social) ![Last Commit](https://img.shields.io/github/last-commit/lwpyh/Awesome-MLLM-Reasoning-Collection)
+
 - [Awesome-Scene-Graph-Generation](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation) ![Stars](https://img.shields.io/github/stars/ChocoWu/Awesome-Scene-Graph-Generation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChocoWu/Awesome-Scene-Graph-Generation)
 
 ## Survey
@@ -54,19 +58,33 @@
 
 ## Multi-Modal Chain-of-Thought Reasoning
 - V* Guided Visual Search as a Core Mechanism in Multimodal LLMs [[Paper](https://arxiv.org/abs/2312.14135)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
+
 - SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[Paper](https://arxiv.org/abs/2401.12168)] ![Static Badge](https://img.shields.io/badge/CVPR-%202024-blue)
+
 - SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2406.01584)] ![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
+
 - OpenSU3D: Open World 3D Scene Understanding using Foundation Models [[Paper](https://arxiv.org/abs/2407.14279)] ![Static Badge](https://img.shields.io/badge/arXiv-%202407-red)
+
 - Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model [[Paper](https://arxiv.org/abs/2408.00754)] ![Static Badge](https://img.shields.io/badge/arXiv-%202408-red)
+
 - GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models [[Paper](https://arxiv.org/abs/2501.01428)] ![Static Badge](https://img.shields.io/badge/arXiv-%202501-red)
+
 - Visual Agentic AI for Spatial Reasoning with a Dynamic API [[Paper](https://arxiv.org/abs/2502.06787)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Can Large Vision Language Models Read Maps Like a Human? [[Paper](https://arxiv.org/abs/2503.14607)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Grounded Chain-of-Thought for Multimodal Large Language Models [[Paper](https://arxiv.org/abs/2503.12799)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding [[Paper](https://arxiv.org/abs/2503.12663)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Paper](https://arxiv.org/abs/2503.10615)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[Paper](https://arxiv.org/abs/2503.22020)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [[Paper](https://arxiv.org/abs/2504.05599)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization [[Paper](https://arxiv.org/abs/2504.18397)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation [[Paper](https://arxiv.org/abs/2504.17207)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 
@@ -74,13 +92,21 @@
 ## Reinforcement Learning Based Multimodal Chain-of-Thought Reasoning
 
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Paper](https://arxiv.org/abs/2503.18470)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[Paper](https://arxiv.org/abs/2503.20752)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Paper](https://arxiv.org/abs/2503.21696)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Video-R1: Reinforcing Video Reasoning in MLLMs [[Paper](https://arxiv.org/abs/2503.21776)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[Paper](https://arxiv.org/abs/2503.18013)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Paper](https://arxiv.org/abs/2504.06958)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Paper](https://arxiv.org/abs/2504.00883)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [[Paper](https://arxiv.org/abs/2504.07615)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[Paper](https://arxiv.org/abs/2504.07954)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
 - ......
@@ -109,5 +135,8 @@
 - ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19355)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19707)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
+- VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Paper](https://arxiv.org/abs/2504.15279)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 - ......
