@@ -27,6 +27,8 @@
 
 - OmniAudio: Generating Spatial Audio from 360-Degree Video. [[Paper](https://arxiv.org/abs/2504.14906)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
 
+- HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation. [[Paper](https://arxiv.org/abs/2504.13072)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 - ......
 
 ### Generative models for dense prediction
