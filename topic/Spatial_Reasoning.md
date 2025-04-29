@@ -87,15 +87,25 @@
 
 ## Benchmark
 - TopViewRS: Vision-Language Models as Top-View Spatial Reasoners [[Paper](https://arxiv.org/abs/2406.02537)] ![Static Badge](https://img.shields.io/badge/EMNLP-%202024-blue)
+
 - Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models [[Paper](https://arxiv.org/abs/2406.14852)] ![Static Badge](https://img.shields.io/badge/NeurIPS-%202024-blue)
+
 - Towards Foundation Models for 3D Vision: How Close Are We? [[Paper](https://arxiv.org/abs/2410.10799)] ![Static Badge](https://img.shields.io/badge/arXiv-%202410-red)
+
 - Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces [[Paper](https://arxiv.org/abs/2412.14171)] ![Static Badge](https://img.shields.io/badge/CVPR-%202025-blue)
+
 - SAT: Spatial Aptitude Training for Multimodal Language Models [[Paper](https://arxiv.org/abs/2412.07755)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
 
+- 3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark [[Paper](https://arxiv.org/abs/2412.07825)] ![Static Badge](https://img.shields.io/badge/arXiv-%202412-red)
+
 - Defining and Evaluating Visual Language Models’ Basic Spatial Abilities: A Perspective from Psychometrics [[Paper](https://arxiv.org/abs/2502.11859)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
+
 - CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models [[Paper](https://arxiv.org/abs/2503.14161)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [[Paper](https://arxiv.org/abs/2503.13111)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes [[Paper](https://arxiv.org/abs/2503.17406)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
+
 - ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19355)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19707)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
