@@ -126,6 +126,8 @@
 
 - Defining and Evaluating Visual Language Models’ Basic Spatial Abilities: A Perspective from Psychometrics [[Paper](https://arxiv.org/abs/2502.11859)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
 
+- Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models [[Paper](https://arxiv.org/abs/2502.08636)] ![Static Badge](https://img.shields.io/badge/arXiv-%202502-red)
+
 - CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models [[Paper](https://arxiv.org/abs/2503.14161)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [[Paper](https://arxiv.org/abs/2503.13111)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
@@ -137,6 +139,7 @@
 - Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models [[Paper](https://arxiv.org/abs/2503.19707)] ![Static Badge](https://img.shields.io/badge/arXiv-%202503-red)
 
 - VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Paper](https://arxiv.org/abs/2504.15279)] ![Static Badge](https://img.shields.io/badge/arXiv-%202504-red)
+
 
 
 - ......
